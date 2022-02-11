@@ -30,7 +30,7 @@ Javascript (ReactJS, NodeJS), HTML, CSS, Git / Version Control, Database, Cachin
 
 **PROFESSIONAL EXPERIENCE**
 
-- **Software Engineer (2018-Present)         		Polymax (personal website)**
+### **Software Engineer (2018-Present)         		Polymax (personal website)**
 
 
 **Key Achievements**
