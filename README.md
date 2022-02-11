@@ -43,7 +43,7 @@ Mentored junior developers into better roles to be able to tackle more complexit
 
 Worked in pairs to develop systems for non-profit organizations in NodeJS and ReactJs. Taught each other hard concepts in web programming and best practices. 
 **Key Achievements**
-Developed a reporting tool for the Galilee Society on environmental injustice.
+Developed a webisite for Civil registration, which is used birth certificate status for first time registration. 
 
 **EDUCATION**
 Diploma in Computer Science, Eldoret Polytechnic College, 2021
