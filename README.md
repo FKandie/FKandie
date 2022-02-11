@@ -41,7 +41,10 @@ Mentored junior developers into better roles to be able to tackle more complexit
 - **Software Engineer Trainee (2022 August -2020 November ) 		        Huduma Centre (Iten Branch)** 
 
 
-Worked in pairs to develop systems for non-profit organizations in NodeJS and ReactJs. Taught each other hard concepts in web programming and best practices. 
+**Responsibilities**
+- Coordinate Team Management, Training and Knowledge transfer to ICT Infrastructure Team and all Huduma Centres Staff on usage and operation Huduma Kenya ICT Solutions.
+- Coordinate the development of key performance goals for ICT Infrastructure and support functions and direct reports; Design, Continuous Optimization and Continuous research and development of Innovative ICT Solutions to Drive Huduma Service Delivery Channels.
+
 **Key Achievements**
 Developed a webisite for Civil registration, which is used birth certificate status for first time registration. 
 
