@@ -44,6 +44,11 @@ Mentored junior developers into better roles to be able to tackle more complexit
 **Responsibilities**
 - Coordinate Team Management, Training and Knowledge transfer to ICT Infrastructure Team and all Huduma Centres Staff on usage and operation Huduma Kenya ICT Solutions.
 - Coordinate the development of key performance goals for ICT Infrastructure and support functions and direct reports; Design, Continuous Optimization and Continuous research and development of Innovative ICT Solutions to Drive Huduma Service Delivery Channels.
+- Plan for ICT solutions installation inspection & maintenance. 
+- Monitoring Huduma infrastructure operation status from the NOC (Network Operation Centre); and
+- Any other duties as may be assigned by the supervisor.
+
+
 
 **Key Achievements**
 Developed a webisite for Civil registration, which is used birth certificate status for first time registration. 
