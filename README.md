@@ -37,14 +37,8 @@ Design and implement systems using the agile Software Development Life Cycle. Co
 **Key Achievements**
 Mentored junior developers into better roles to be able to tackle more complexity
 
-- **Software Engineer (2019-present)  			Intentional Futures, Washington, USA** 
 
-
-Develop online Learning resources using ReactJs, NextJs, and Firebase to help students in the USA access course materials from anywhere. 
-**Key Achievements**
-Refactored code to use the new version of React with Hooks which made the codebase cleaner and readable.
-
-- **Software Engineer Trainee (2017-2018) 		        Founders & Coders, Nazareth, Israel** 
+- **Software Engineer Trainee (2022 August -2020 November ) 		        Huduma Centre (Iten Branch)** 
 
 
 Worked in pairs to develop systems for non-profit organizations in NodeJS and ReactJs. Taught each other hard concepts in web programming and best practices. 
