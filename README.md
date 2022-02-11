@@ -46,6 +46,6 @@ Worked in pairs to develop systems for non-profit organizations in NodeJS and Re
 Developed a reporting tool for the Galilee Society on environmental injustice.
 
 **EDUCATION**
-Bachelor of Science, Computer Science, University of Nairobi, 2020
+Diploma in Computer Science, Eldoret Polytechnic College, 2021
 
 
