@@ -33,9 +33,14 @@ Javascript (ReactJS, NodeJS), HTML, CSS, Git / Version Control, Database, Cachin
 - **Software Engineer (2018-Present)         		Polymax (personal website)**
 
 
-Design and implement systems using the agile Software Development Life Cycle. Collaborate in getting features done to meet the stakeholders’ requirements. Communicate the entire process of development and delivery to stakeholders to keep them in sync with every step.
 **Key Achievements**
 Mentored junior developers into better roles to be able to tackle more complexity
+
+***Responsibilities***
+- Building and testing the site. 
+- Maintaining and updating the site. 
+- Fixing bugs or errors found in the site. 
+- Keeping track of performance analytics, website traffic, and product performance.
 
 
 - **Software Engineer Trainee (2022 August -2020 November ) 		        Huduma Centre (Iten Branch)** 
