@@ -34,7 +34,7 @@ Javascript (ReactJS, NodeJS), HTML, CSS, Git / Version Control, Database, Cachin
 
 
 **Key Achievements**
-Mentored junior developers into better roles to be able to tackle more complexity
+developed my own e-commerce website and was able to earn money with it during my college time. 
 
 ***Responsibilities***
 - Building and testing the site. 
