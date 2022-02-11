@@ -1,4 +1,4 @@
-# Hi there, I'm Kandie Felix👋 
+# Hi there, I'm Felix Kandie👋 
 [![Twitter Follow](https://img.shields.io/twitter/follow/felixkandie_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ffelixkandie_&screen_name=felixkandie_)
 
 
@@ -14,20 +14,44 @@ Currently residing in Eldoret, Kenya. I'm always looking for challenging project
 the best website or web app that will serve the needs of a potential client. You can checkout my work here. I'm still a budding developer, but aren't we all? I'm glad being a developer makes us forever learners and it embraces us for creating and breaking things as opposed to being perfectionist. I love being a developers because it really gives me a reason to wake up everyday even if I don't feel like it.
 
 
-### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
+### CURRICULUM VITAE
+### Felix Kimutai Kandie
+- +254703882818 | felixkandie@pm.me 
+
+### Software and Web Developer Frontend Developer/ php Backend Developer 
+
+_Committed and self-driven Developer with over 3 years of experience in developing web applications that have positively impacted the world. An upcoming leader aiming at leading teams to efficiently handle the building of systems from ideation to production._ 
+
+**Software Engineering  • Agile Methodology • Frontend Development • Backend Development • Technical & Functional Requirements**
+
+**TECHNICAL PROFICIENCIES**
+Javascript (ReactJS, NodeJS), HTML, CSS, CI/CD, Agile development, TDD, Git / Version Control, Database, Caching, API, AWS, Firebase, Firestore, NextJs
+
+**PROFESSIONAL EXPERIENCE**
+
+- **Software Engineer (2018-Present)         				Andela, Nairobi, Kenya**
+
+
+Design and implement systems using the agile Software Development Life Cycle. Collaborate in getting features done to meet the stakeholders’ requirements. Communicate the entire process of development and delivery to stakeholders to keep them in sync with every step.
+**Key Achievements**
+Mentored junior developers into better roles to be able to tackle more complexity
+
+- **Software Engineer (2019-present)  			Intentional Futures, Washington, USA** 
+
+
+Develop online Learning resources using ReactJs, NextJs, and Firebase to help students in the USA access course materials from anywhere. 
+**Key Achievements**
+Refactored code to use the new version of React with Hooks which made the codebase cleaner and readable.
+
+- **Software Engineer Trainee (2017-2018) 		        Founders & Coders, Nazareth, Israel** 
+
+
+Worked in pairs to develop systems for non-profit organizations in NodeJS and ReactJs. Taught each other hard concepts in web programming and best practices. 
+**Key Achievements**
+Developed a reporting tool for the Galilee Society on environmental injustice.
+
+**EDUCATION**
+Bachelor of Science, Computer Science, University of Nairobi, 2020
 
 
