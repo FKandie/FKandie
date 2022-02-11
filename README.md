@@ -26,7 +26,7 @@ _Committed and self-driven Developer with over 3 years of experience in developi
 **Software Engineering  • Agile Methodology • Frontend Development • Backend Development • Technical & Functional Requirements**
 
 **TECHNICAL PROFICIENCIES**
-Javascript (ReactJS, NodeJS), HTML, CSS, CI/CD, Agile development, TDD, Git / Version Control, Database, Caching, API, AWS, Firebase, Firestore, NextJs
+Javascript (ReactJS, NodeJS), HTML, CSS, Git / Version Control, Database, Caching, API, Python and PHP
 
 **PROFESSIONAL EXPERIENCE**
 
