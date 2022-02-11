@@ -43,7 +43,7 @@ Mentored junior developers into better roles to be able to tackle more complexit
 - Keeping track of performance analytics, website traffic, and product performance.
 
 
-- **Software Engineer Trainee (2022 August -2020 November ) 		        Huduma Centre (Iten Branch)** 
+### **Software Engineer Trainee (2022 August -2020 November ) 		        Huduma Centre (Iten Branch)** 
 
 
 **Responsibilities**
