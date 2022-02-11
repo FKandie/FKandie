@@ -30,7 +30,7 @@ Javascript (ReactJS, NodeJS), HTML, CSS, CI/CD, Agile development, TDD, Git / Ve
 
 **PROFESSIONAL EXPERIENCE**
 
-- **Software Engineer (2018-Present)         				Andela, Nairobi, Kenya**
+- **Software Engineer (2018-Present)         		Polymax (personal website)**
 
 
 Design and implement systems using the agile Software Development Life Cycle. Collaborate in getting features done to meet the stakeholders’ requirements. Communicate the entire process of development and delivery to stakeholders to keep them in sync with every step.
