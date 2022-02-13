@@ -3,8 +3,10 @@
 
 
 ## I'm a Front-End web Developer & Graphic Designer !!
-Currently residing in Eldoret, Kenya. I'm always looking for challenging projects to indulge in. I also work as a freelance web developer making websites for small businesses and organizations.
 
+<p align="center"><a href="https://github.com/FKandie"><img title="Felix Kandie" src="https://github-readme-stats.vercel.app/api?username=FKandie&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+</p>
+Currently residing in Eldoret, Kenya. I'm always looking for challenging projects to indulge in. I also work as a freelance web developer making websites for small businesses and organizations.
 - 🌱 I’m currently learning everything 🖥️ 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3
