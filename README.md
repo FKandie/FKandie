@@ -1,5 +1,5 @@
 # Hi there, I'm Felix Kandie👋 
-<a href="https://wa.me/0703882818"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://wa.me/+254703882818"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
 [![Twitter Follow](https://img.shields.io/twitter/follow/felixkandie_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ffelixkandie_&screen_name=felixkandie_)
 
 ## I'm a Front-End web Developer & Graphic Designer !!
