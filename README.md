@@ -11,7 +11,7 @@ Currently residing in Eldoret, Kenya. I'm always looking for challenging project
 - ⚡ Fun fact: I love listening to Music, Movies and riding
 ## What's exciting right now?
 - I'm part of the twitter tech community, thanks to the #100DaysOfCode💻 challenge🤼, that brings developers together, old or young, from diffferent walks of life. I'm always looking for inspirations be it online and offline to create 
-the best website or web app that will serve the needs of a potential client. You can checkout my work here. I'm still a budding developer, but aren't we all? I'm glad being a developer makes us forever learners and it embraces us for creating and breaking things as opposed to being perfectionist. I love being a developers because it really gives me a reason to wake up everyday even if I don't feel like it.
+the best website or web app that will serve the needs of a potential client. I'm still a budding developer, but aren't we all? I'm glad being a developer makes us forever learners and it embraces us for creating and breaking things as opposed to being perfectionist. I love being a developers because it really gives me a reason to wake up everyday even if I don't feel like it.
 
 
 
@@ -56,7 +56,7 @@ developed my own e-commerce website and was able to earn money with it during my
 
 
 **Key Achievements**
-Developed a webisite for Civil registration, which is used birth certificate status for first time registration. 
+Developed a webisite for Civil registration, which is used to check birth certificate status for first time registration. 
 
 **EDUCATION**
 Diploma in Computer Science, Eldoret Polytechnic College, 2021
