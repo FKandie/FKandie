@@ -11,7 +11,7 @@ Currently residing in Eldoret, Kenya. I'm always looking for challenging project
 ## happening now! 
 
 - 🌱 I’m currently learning everything 🖥️ 
-- 👯 I’m looking to collaborate with other content creators
+- 👨🏽‍💻👩🏼‍💻 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love listening to Music, Movies and riding
 ## What's exciting right now?
