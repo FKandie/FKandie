@@ -63,7 +63,7 @@ developed my own e-commerce website and was able to earn money with it during my
 **Key Achievements**
 Developed a webisite for Civil registration, which is used to check birth certificate status for first time registration. 
 
-**EDUCATION**
+## **EDUCATION**
 Diploma in Computer Science, Eldoret Polytechnic College, 2021
 
 
