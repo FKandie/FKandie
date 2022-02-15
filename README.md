@@ -5,7 +5,7 @@
 
 ## I'm a Front-End web Developer & Graphic Designer !!
 
-<p align="center"><a href="https://github.com/FKandie"><img title="Felix Kandie" src="https://github-readme-stats.vercel.app/api?username=FKandie&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+<p align="left"><a href="https://github.com/FKandie"><img title="Felix Kandie" src="https://github-readme-stats.vercel.app/api?username=FKandie&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 <a href="https://FKandie.github.io/FKandiePortfolio/" style="margin-right:.5%; margin-top=.5%;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FKandie&layout=compact" />
