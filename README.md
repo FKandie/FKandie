@@ -9,7 +9,7 @@
 </p>
 <a href="https://FKandie.github.io/FKandiePortfolio/" style="margin-right:.5%; margin-top=.5%;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FKandie&layout=compact" />
-</a>
+</a><br>
 Currently residing in Eldoret, Kenya. I'm always looking for challenging projects to indulge in. I also work as a freelance web developer making websites for small businesses and organizations.
 
 ## happening now! 
