@@ -26,7 +26,7 @@ the best website or web app that will serve the needs of a potential client. I'm
 
 ### CURRICULUM VITAE
 ### Felix Kimutai Kandie
-- +254703882818 | felixkandie@pm.me 
+ +254703882818 | felixkandie@pm.me 
 
 ### Software and Web Developer Frontend Developer/ php Backend Developer 
 
