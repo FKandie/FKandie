@@ -4,6 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FKandie&label=Profile%20views&color=1DA1F2&style=flat" alt="FKandie" /> </p>
 
 [![Status](https://img.shields.io/badge/status-Unemployed%20-red.svg)](https://github.com/FKandie)
+<br>
+# Portfolio 
+https://fkandie.github.io/
+
 ## I'm a Front-End web Developer & Graphic Designer !!
 <p align="left"><a href="https://github.com/FKandie"><img title="Felix Kandie" src="https://github-readme-stats.vercel.app/api?username=FKandie&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
