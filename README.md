@@ -10,10 +10,8 @@
 <p align="center">
 <p align="left"><a href="https://github.com/FKandie"><img title="Felix Kandie" src="https://github-readme-stats.vercel.app/api?username=FKandie&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
-<a href="https://FKandie.github.io/FKandiePortfolio/" style="margin-right:.5%; margin-top=.5%;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FKandie&layout=compact" />
-</a><br>
-</p>
+<a href="https://github.com/FKandie"><img alt="FKandie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FKandie&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="300px"/></a>
+  <br/>
 
 Currently residing in Eldoret, Kenya. I'm always looking for challenging projects to indulge in. I also work as a freelance web developer making websites for small businesses and organizations.
 
