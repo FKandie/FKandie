@@ -4,7 +4,7 @@
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=FKandie&label=Profile%20views&color=1DA1F2&style=flat" alt="FKandie" /> </p>
 
-[![Status](https://img.shields.io/badge/status-SelfEmployed%20-forestgreen.svg)](https://github.com/FKandie)
+[![Status](https://img.shields.io/badge/status-FrondEndDeveloper%20-forestgreen.svg)](https://github.com/FKandie)
 
 ## 📊 My Github Stats
 <p align="center">
