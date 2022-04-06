@@ -32,37 +32,6 @@ _Committed and self-driven Developer with over 3 years of experience in developi
 **TECHNICAL PROFICIENCIES**
 Javascript (ReactJS, NodeJS), HTML, CSS, Git, Github, SQL, PHP, Python, API's, Databases, Bootstrap, Photoshop and Media Query(Responsive) 
 
-**PROFESSIONAL EXPERIENCE**
 
-### **Software Engineer (2018-Present)         		Polymax (personal website)**
-
-
-**Key Achievements**
-developed my own e-commerce website and was able to earn money with it during my college time. 
-
-***Responsibilities***
-- Building and testing the site. 
-- Maintaining and updating the site. 
-- Fixing bugs or errors found in the site. 
-- Keeping track of performance analytics, website traffic, and product performance.
-
-
-### **Software Engineer Trainee (2022 August -2020 November ) 		        Huduma Centre (Iten Branch)** 
-
-
-**Responsibilities**
-- Coordinate Team Management, Training and Knowledge transfer to ICT Infrastructure Team and all Huduma Centres Staff on usage and operation Huduma Kenya ICT Solutions.
-- Coordinate the development of key performance goals for ICT Infrastructure and support functions and direct reports; Design, Continuous Optimization and Continuous research and development of Innovative ICT Solutions to Drive Huduma Service Delivery Channels.
-- Plan for ICT solutions installation inspection & maintenance. 
-- Monitoring Huduma infrastructure operation status from the NOC (Network Operation Centre); and
-- Any other duties as may be assigned by the supervisor.
-
-
-
-**Key Achievements**
-Developed a webisite for Civil registration, which is used to check birth certificate status for first time registration. 
-
-## **EDUCATION**
-Diploma in Computer Science, Eldoret Polytechnic College, 2021
 
 
