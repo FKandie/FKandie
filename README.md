@@ -10,10 +10,11 @@
 <p align="center">
 <a href="https://github.com/FKandie"><img alt="FKandie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FKandie&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/FKandie"><img alt="FKandie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FKandie&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="300px"/></a>
-  <br/>
 </p>
-
-Currently residing in Eldoret, Kenya. I'm always looking for challenging projects to indulge in. I also work as a freelance web developer making websites for small businesses and organizations.
+<br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<br/>
+<br/>
 
 ## happening now! 
 
