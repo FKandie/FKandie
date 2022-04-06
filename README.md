@@ -7,9 +7,8 @@
 [![Status](https://img.shields.io/badge/status-Employed%20-forestgreen.svg)](https://github.com/FKandie)
 
 ## I'm a Front-End web Developer & Graphic Designer !!
-<p align="center">
-<p align="left"><a href="https://github.com/FKandie"><img title="Felix Kandie" src="https://github-readme-stats.vercel.app/api?username=FKandie&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
-</p>
+
+<a href="https://github.com/FKandie"><img alt="FKandie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FKandie&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/FKandie"><img alt="FKandie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FKandie&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="300px"/></a>
   <br/>
 
