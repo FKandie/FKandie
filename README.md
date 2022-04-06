@@ -23,14 +23,6 @@ Currently residing in Eldoret, Kenya. I'm always looking for challenging project
 - I'm part of the twitter tech community, thanks to the #100DaysOfCode💻 challenge🤼, that brings developers together, old or young, from diffferent walks of life. I'm always looking for inspirations be it online and offline to create 
 the best website or web app that will serve the needs of a potential client. I'm still a budding developer, but aren't we all? I'm glad being a developer makes us forever learners and it embraces us for creating and breaking things as opposed to being perfectionist. I love being a developers because it really gives me a reason to wake up everyday even if I don't feel like it.
 
-### Software and Web Developer Frontend Developer/ php Backend Developer 
-
-_Committed and self-driven Developer with over 3 years of experience in developing web applications that have positively impacted the world. An upcoming leader aiming at leading teams to efficiently handle the building of systems from ideation to production._ 
-
-**Software Engineering  • Agile Methodology • Frontend Development • Backend Development • Technical & Functional Requirements**
-
-**TECHNICAL PROFICIENCIES**
-Javascript (ReactJS, NodeJS), HTML, CSS, Git, Github, SQL, PHP, Python, API's, Databases, Bootstrap, Photoshop and Media Query(Responsive) 
 
 
 
