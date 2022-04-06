@@ -1,7 +1,8 @@
 # Hi there, I'm Felix Kandie👋 
 <a href="https://wa.me/+254703882818"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-forestgreen?style=for-the-badge&logo=whatsapp"></a>
 [![Twitter Follow](https://img.shields.io/twitter/follow/felixkandie_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ffelixkandie_&screen_name=felixkandie_)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=FKandie&label=Profile%20views&color=1DA1F2&style=flat" alt="FKandie" /> </p>
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=FKandie&label=Profile%20views&color=1DA1F2&style=flat" alt="FKandie" /> </p>
 
 [![Status](https://img.shields.io/badge/status-Employed%20-forestgreen.svg)](https://github.com/FKandie)
 
@@ -12,6 +13,8 @@
 <a href="https://FKandie.github.io/FKandiePortfolio/" style="margin-right:.5%; margin-top=.5%;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FKandie&layout=compact" />
 </a><br>
+</p>
+
 Currently residing in Eldoret, Kenya. I'm always looking for challenging projects to indulge in. I also work as a freelance web developer making websites for small businesses and organizations.
 
 ## happening now! 
