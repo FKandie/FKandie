@@ -22,6 +22,10 @@
 - 👨🏽‍💻👩🏼‍💻 working on Open-source web projects 
 - 💻 Learning MongoDB & Firebase
 - 😍 Let's play action games/ have have a ride. 
+## 🚀 Languages and Tools:
+
+![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![WordPress](https://img.icons8.com/color/30/wordpress.png)![SASS](https://img.icons8.com/color/30/sass.png)![NPM](https://img.icons8.com/color/30/npm.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
+<br/>
 ## What's exciting right now?
 - I'm part of the twitter tech community, thanks to the #100DaysOfCode💻 challenge🤼, that brings developers together, old or young, from diffferent walks of life. I'm always looking for inspirations be it online and offline to create 
 the best website or web app that will serve the needs of a potential client. I'm still a budding developer, but aren't we all? I'm glad being a developer makes us forever learners and it embraces us for creating and breaking things as opposed to being perfectionist. I love being a developers because it really gives me a reason to wake up everyday even if I don't feel like it.
