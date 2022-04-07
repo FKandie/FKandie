@@ -34,7 +34,7 @@
 </a></p><br><br>
 
 ---
-## contributions in the last year
+## contributions in the last years
 
 ![snake gif](https://github.com/FKandie/FKandie/blob/main/img/contributions.gif) 
 
