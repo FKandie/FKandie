@@ -8,7 +8,7 @@
 
 ## Badges
 <p align="center">
-<a href="https://github.com/FKandie"><img alt="FKandie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FKandie&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=FFFF00&bg_color=2E8B57"/></a>
+<a href="https://github.com/FKandie"><img alt="FKandie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FKandie&show_icons=true&count_private=true&theme=react&hide_border=true&icon_color=FFFF00&title_color=FFFF00&bg_color=2E8B57"/></a>
 </p>
 <p align="center">
 <h2> 📊My Github Stats</h2>
