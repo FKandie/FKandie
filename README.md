@@ -28,6 +28,9 @@
 
 ![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![WordPress](https://img.icons8.com/color/30/wordpress.png)![SASS](https://img.icons8.com/color/30/sass.png)![NPM](https://img.icons8.com/color/30/npm.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
 ## support 
+<p><a href="https://www.buymeacoffee.com/rams"> 
+<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" height="50" width="210" alt="rams" />
+</a></p><br><br>
 
 ---
 ## contributions in the last year
