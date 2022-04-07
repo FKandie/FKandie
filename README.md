@@ -6,9 +6,12 @@
 
 [![Status](https://img.shields.io/badge/stack-FrontEndDeveloper%20-forestgreen.svg)](https://github.com/FKandie)
 
-## 📊 My Github Stats
+## Badges
 <p align="center">
 <a href="https://github.com/FKandie"><img alt="FKandie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FKandie&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</p>
+<p align="center">
+<h2> 📊My Github Stats</h2>
 <a href="https://github.com/FKandie"><img alt="FKandie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FKandie&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="300px"/></a>
 </p>
 <br/>
