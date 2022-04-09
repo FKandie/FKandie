@@ -6,11 +6,11 @@
 
 [![Status](https://img.shields.io/badge/Role-WebDeveloper%20-2E8B57.svg)](https://github.com/FKandie)
 
-## Badges
-<p align="center">
+<h2>Badges</h2>
+<p align="left">
 <a href="https://github.com/FKandie"><img alt="FKandie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FKandie&show_icons=true&count_private=true&theme=react&hide_border=true&icon_color=FFFF00&title_color=FFFF00&bg_color=2E8B57"/></a>
 </p>
-<p align="center">
+<p align="left">
 <h2> 📊My Github Stats</h2>
 <a href="https://github.com/FKandie"><img alt="FKandie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FKandie&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&title_color=FFFF00&bg_color=2E8B57" width="300px"/></a>
 </p>
