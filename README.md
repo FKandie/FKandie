@@ -41,10 +41,6 @@
   <img alt="Vscode" src="https://img.shields.io/badge/-vs--code-informational?style=flat-square&logo=vs-code&logoColor=white" />
   
 </p>
-<h1>support me<h1>
-<p><a href="tel:+254703882818"> 
-<img align="left" src="https://github.com/FKandie/FKandie/blob/main/img/mpesa_0703882818.jpg" height="54" width="255" alt="Felix Kandie" />
-</a></p><br><br>
 
 ---
 ## contributions in the last previous years
